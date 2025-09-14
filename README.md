@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Luis!
-- 👀 I’m interested in music, working out, sports, and video games!
-- 🌱 I’m currently learning CS at SFSU! (Python and C)
-- 💞️ I’m looking to collaborate on Webdev projects and python projects.
-- 📫 Reach me at LAEV415@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am passionate about art and using it to address issues or explore themes!
+
